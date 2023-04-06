@@ -1,5 +1,7 @@
-<span style="color:blue">Este texto es azul</span>
+Este texto es de color <span style="color:blue">azul</span>.
+
 
 Prueba
-  - <span style="color:blue">Este texto es azul: </span> se ve azul o no?
+  - Este texto es de color <span style="color:blue">azul</span>.
+
 
