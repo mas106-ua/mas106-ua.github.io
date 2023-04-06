@@ -1,4 +1,5 @@
-Este texto es de color <span style="color:blue">azul</span>.
+Este texto es de color <font color="blue">azul</font>.
+
 
 
 Prueba
